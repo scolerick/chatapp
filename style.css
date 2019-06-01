@@ -2,7 +2,7 @@
     --main-color: #ecb939;
     --secondary-color: #E8E3D9;
     --main-text-color: #3e5869;
-    --secondary-text-color: #372e29;
+    --secondary-text-color: #404040;
     --send-message-form: white;
 }
 
@@ -12,7 +12,7 @@ html, body {
     padding: 0;
     font-family: system-ui;
     font-weight: 200;
-    color: 	#E8E3D9; 
+    color: 	#ecb939; 
 }
 
 #root {
